@@ -2,7 +2,6 @@ package stepDefinition;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
-
 import pageObject.CategoriesPage;
 import pageObject.LandingPage;
 import pageObject.LoginPage;
